@@ -6,5 +6,5 @@ Password Generator was created to allow an individual to customize a random pass
   3. Special characters
   4. Numbers
 
-
+![Image of password generator](https://github.com/morganmmoore/Password-Generator/blob/main/pw%20gen.jpg)
 https://morganmmoore.github.io/Password-Generator/
